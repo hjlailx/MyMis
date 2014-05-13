@@ -1,1 +1,9 @@
 /bin
+<<<<<<< HEAD
+=======
+/target
+*.project
+*.settings
+*.classpath
+/*/.gitignore
+>>>>>>> 415f0491535d23f11dbe824b884c9d773fbc714e
